@@ -1,0 +1,32 @@
+{
+  "name": "next-new",
+  "version": "1.0.0",
+  "description": "学习next",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skyddyyu/next-new.git"
+  },
+  "author": "soFun",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/skyddyyu/next-new/issues"
+  },
+  "homepage": "https://github.com/skyddyyu/next-new#readme",
+  "dependencies": {
+    "@emotion/react": "^11.10.6",
+    "@emotion/styled": "^11.10.6",
+    "@mui/icons-material": "^5.11.16",
+    "@mui/material": "^5.12.2",
+    "eslint": "^8.39.0",
+    "eslint-config-next": "^13.3.1",
+    "next": "^13.3.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
